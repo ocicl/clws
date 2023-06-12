@@ -1,0 +1,9 @@
+* clws
+
+websockets server in CL
+
+|---------+------------------------------------|
+| source  | git:https://github.com/3b/clws.git |
+| commit  | b20799d                            |
+| systems | clws                               |
+|---------+------------------------------------|
