@@ -4,6 +4,6 @@ websockets server in CL
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/atgreen/clws.git |
-| commit  | 287006c                                 |
+| commit  | cb3778f                                 |
 | systems | clws                                    |
 |---------+-----------------------------------------|
